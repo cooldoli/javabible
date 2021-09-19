@@ -60,6 +60,7 @@ class Triangle extends Shape {
 //Circle 클래스
 class Circle extends Shape {
     //원의 원점 좌표
+    String test;
     //반지름
     //원 생성자, 초기화: x=0, y=0, r=100
 
